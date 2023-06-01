@@ -1,5 +1,7 @@
 # Google Play Store Analysis with SQL and Power BI
-This project aims to analyze the Google Play Store data using SQL queries and visualizations created with Power BI. The objective is to gain insights into app trends, user ratings, and overall performance in the Google Play Store.
+## Project Overview
+This project focuses on analyzing the Google Play Store data using SQL for data cleaning and leveraging Power BI for analysis and visualizations. The primary objective is to extract valuable insights into app trends, user ratings, and overall performance within the Google Play Store ecosystem
+By leveraging SQL and Power BI, this project provides a comprehensive approach to analyze and visualize the Google Play Store data, enabling stakeholders to make data-driven decisions for app development, marketing strategies, and enhancing user engagement.
 
 ## Project Structure
 - `sql_queries.sql`: Includes SQL queries to extract, clean, and transform the data.
